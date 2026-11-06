@@ -1,0 +1,575 @@
+{
+  "method": "Conservative sampled background pixels across text bounding rectangles with text hidden; 2px sampling, Chromium DPR1. Not a full WCAG audit.",
+  "samples": [
+    {
+      "width": 1440,
+      "text": "TYRUS",
+      "minimumContrast": 12.43,
+      "required": 3
+    },
+    {
+      "width": 1440,
+      "text": "About",
+      "minimumContrast": 10.64,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Expertise",
+      "minimumContrast": 9.12,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Our Approach",
+      "minimumContrast": 9.27,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Contact",
+      "minimumContrast": 9.4,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Let's Connect",
+      "minimumContrast": 5.48,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "\u2197",
+      "minimumContrast": 7.84,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Executive technology consulting",
+      "minimumContrast": 7.04,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Transforming Business Through",
+      "minimumContrast": 8.04,
+      "required": 3
+    },
+    {
+      "width": 1440,
+      "text": "Transforming Business Through",
+      "minimumContrast": 9.42,
+      "required": 3
+    },
+    {
+      "width": 1440,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 5.21,
+      "required": 3
+    },
+    {
+      "width": 1440,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 5.56,
+      "required": 3
+    },
+    {
+      "width": 1440,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 8.37,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 11.3,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.65,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.53,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.54,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 7.64,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Let's Connect",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "\u2197",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "35 Years of Technology Experience.",
+      "minimumContrast": 13.0,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Focused on What's Next.",
+      "minimumContrast": 8.45,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "Explore Tyrus",
+      "minimumContrast": 9.41,
+      "required": 4.5
+    },
+    {
+      "width": 1440,
+      "text": "\u2193",
+      "minimumContrast": 11.07,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "TYRUS",
+      "minimumContrast": 12.39,
+      "required": 3
+    },
+    {
+      "width": 390,
+      "text": "Menu",
+      "minimumContrast": 11.49,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "\u2630",
+      "minimumContrast": 10.65,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Executive technology consulting",
+      "minimumContrast": 6.0,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Transforming Business Through",
+      "minimumContrast": 7.11,
+      "required": 3
+    },
+    {
+      "width": 390,
+      "text": "Transforming Business Through",
+      "minimumContrast": 5.91,
+      "required": 3
+    },
+    {
+      "width": 390,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 4.06,
+      "required": 3
+    },
+    {
+      "width": 390,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 5.1,
+      "required": 3
+    },
+    {
+      "width": 390,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 8.55,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 7.16,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 4.79,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 5.03,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.99,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 5.05,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 5.46,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 7.59,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Let's Connect",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "\u2197",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "35 Years of Technology Experience.",
+      "minimumContrast": 12.95,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Focused on What's Next.",
+      "minimumContrast": 8.33,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "Explore Tyrus",
+      "minimumContrast": 12.05,
+      "required": 4.5
+    },
+    {
+      "width": 390,
+      "text": "\u2193",
+      "minimumContrast": 11.46,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "TYRUS",
+      "minimumContrast": 12.41,
+      "required": 3
+    },
+    {
+      "width": 1920,
+      "text": "About",
+      "minimumContrast": 11.15,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Expertise",
+      "minimumContrast": 10.96,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Our Approach",
+      "minimumContrast": 8.28,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Contact",
+      "minimumContrast": 9.78,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Let's Connect",
+      "minimumContrast": 9.4,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "\u2197",
+      "minimumContrast": 8.32,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Executive technology consulting",
+      "minimumContrast": 7.19,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Transforming Business Through",
+      "minimumContrast": 6.98,
+      "required": 3
+    },
+    {
+      "width": 1920,
+      "text": "Transforming Business Through",
+      "minimumContrast": 9.65,
+      "required": 3
+    },
+    {
+      "width": 1920,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 6.9,
+      "required": 3
+    },
+    {
+      "width": 1920,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 5.45,
+      "required": 3
+    },
+    {
+      "width": 1920,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 5.46,
+      "required": 3
+    },
+    {
+      "width": 1920,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 9.73,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 8.7,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.31,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.43,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.59,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 7.15,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Let's Connect",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "\u2197",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "35 Years of Technology Experience.",
+      "minimumContrast": 13.29,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Focused on What's Next.",
+      "minimumContrast": 8.05,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "Explore Tyrus",
+      "minimumContrast": 8.97,
+      "required": 4.5
+    },
+    {
+      "width": 1920,
+      "text": "\u2193",
+      "minimumContrast": 10.2,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "TYRUS",
+      "minimumContrast": 12.44,
+      "required": 3
+    },
+    {
+      "width": 768,
+      "text": "About",
+      "minimumContrast": 12.58,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Expertise",
+      "minimumContrast": 12.58,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Our Approach",
+      "minimumContrast": 12.22,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Contact",
+      "minimumContrast": 11.72,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Let's Connect",
+      "minimumContrast": 11.84,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "\u2197",
+      "minimumContrast": 11.39,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Executive technology consulting",
+      "minimumContrast": 7.23,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Transforming Business Through",
+      "minimumContrast": 8.6,
+      "required": 3
+    },
+    {
+      "width": 768,
+      "text": "Transforming Business Through",
+      "minimumContrast": 10.83,
+      "required": 3
+    },
+    {
+      "width": 768,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 5.47,
+      "required": 3
+    },
+    {
+      "width": 768,
+      "text": "AI, Technology & Leadership.",
+      "minimumContrast": 5.94,
+      "required": 3
+    },
+    {
+      "width": 768,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 7.81,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Executive technology consulting that bridges strategy and execution.",
+      "minimumContrast": 9.94,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.42,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.52,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 6.36,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Tyrus helps organizations harness artificial intelligence, modernize technology platforms, and accelerate business transformation. We combine executive-level leadership with hands-on engineering expertise to turn complex challenges into measurable business outcomes.",
+      "minimumContrast": 7.17,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Let's Connect",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "\u2197",
+      "minimumContrast": 10.93,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "35 Years of Technology Experience.",
+      "minimumContrast": 12.95,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Focused on What's Next.",
+      "minimumContrast": 8.04,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "Explore Tyrus",
+      "minimumContrast": 11.24,
+      "required": 4.5
+    },
+    {
+      "width": 768,
+      "text": "\u2193",
+      "minimumContrast": 11.54,
+      "required": 4.5
+    }
+  ]
+}
