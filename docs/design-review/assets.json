@@ -1,0 +1,47 @@
+{
+  "source": {
+    "path": "assets/source/coastal-ai-sunset.png",
+    "originalFilename": "Digital Waves Over Coastal Sunset.png",
+    "sha256": "178f852203cacddbd1ed49fadf56c4199c95f2688221e8bad5b1d5c207b60631",
+    "provenance": "User-supplied generated coastal AI image accompanying TYRUS-DESIGN-002; creative direction approved in supplied brief. No external stock image or independent photographer claim.",
+    "receivedDate": "2026-11-05",
+    "use": "Tyrus homepage hero and social-sharing derivative",
+    "treatment": "RGB conversion, proportional resize and WebP/JPEG compression; social derivative 1200x675. Original retained unchanged."
+  },
+  "derivatives": [
+    {
+      "path": "dist/assets/coastal-ai-1200.webp",
+      "bytes": 156314,
+      "sha256": "26f83909240966bdb5448c21190ae9af70c4d37295561ffe8ebc8b22a4e1e289"
+    },
+    {
+      "path": "dist/assets/coastal-ai-1672.webp",
+      "bytes": 256462,
+      "sha256": "84d1d3b817f8e77dd7ee805fce47a00ea1208dbb228d6a4865aca4ebea82da7f"
+    },
+    {
+      "path": "dist/assets/coastal-ai-768.webp",
+      "bytes": 75458,
+      "sha256": "84b062b198ee8c74e19e12e37afb6e6194bc030c7d77d7184dd086d7c6bdc0f4"
+    },
+    {
+      "path": "dist/assets/coastal-ai-fallback.jpg",
+      "bytes": 319568,
+      "sha256": "48b9de33631e9fdc65f23ceb2f71d67812651f85b67f7ec6ca3670440fe6a767"
+    },
+    {
+      "path": "dist/assets/tyrus-social.jpg",
+      "bytes": 179748,
+      "sha256": "d7c314334fc2bc73abbd9a5879203b7444657e96d201540385fa9618d14faa18"
+    }
+  ],
+  "fonts": {
+    "source": "Catalyst local reference public-preview/src/fonts",
+    "families": [
+      "DM Sans regular",
+      "DM Sans semibold",
+      "Libre Caslon Display"
+    ],
+    "license": "SIL Open Font License; included in dist/fonts"
+  }
+}

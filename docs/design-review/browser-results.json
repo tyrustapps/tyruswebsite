@@ -1,0 +1,603 @@
+{
+  "viewports": [
+    {
+      "width": 720,
+      "height": 450,
+      "cls": 0,
+      "resourceBytes": 162544,
+      "overflow": false,
+      "hero": 773.3125,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-768.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "button"
+              ],
+              [
+                "button > span[aria-hidden=\"true\"]"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "cls": 0,
+      "resourceBytes": 343548,
+      "overflow": false,
+      "hero": 900,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-1672.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "#navigation > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#expertise\"]"
+              ],
+              [
+                "a[href$=\"#approach\"]"
+              ],
+              [
+                "a[href$=\"#contact\"]"
+              ],
+              [
+                ".header-cta"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "cls": 0,
+      "resourceBytes": 343548,
+      "overflow": false,
+      "hero": 1080,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-1672.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "#navigation > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#expertise\"]"
+              ],
+              [
+                "a[href$=\"#approach\"]"
+              ],
+              [
+                "a[href$=\"#contact\"]"
+              ],
+              [
+                ".header-cta"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "cls": 0,
+      "resourceBytes": 343548,
+      "overflow": false,
+      "hero": 857.0625,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-1672.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "#navigation > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#expertise\"]"
+              ],
+              [
+                "a[href$=\"#approach\"]"
+              ],
+              [
+                "a[href$=\"#contact\"]"
+              ],
+              [
+                ".header-cta"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "cls": 0,
+      "resourceBytes": 243400,
+      "overflow": false,
+      "hero": 850,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-1200.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "#navigation > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#expertise\"]"
+              ],
+              [
+                "a[href$=\"#approach\"]"
+              ],
+              [
+                "a[href$=\"#contact\"]"
+              ],
+              [
+                ".header-cta"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "cls": 0,
+      "resourceBytes": 162544,
+      "overflow": false,
+      "hero": 850,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-768.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "#navigation > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#expertise\"]"
+              ],
+              [
+                "a[href$=\"#approach\"]"
+              ],
+              [
+                "a[href$=\"#contact\"]"
+              ],
+              [
+                ".header-cta"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "cls": 0,
+      "resourceBytes": 162544,
+      "overflow": false,
+      "hero": 844,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-768.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "button"
+              ],
+              [
+                "button > span[aria-hidden=\"true\"]"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "cls": 0,
+      "resourceBytes": 162544,
+      "overflow": false,
+      "hero": 923.671875,
+      "image": "http://127.0.0.1:4175/assets/coastal-ai-768.webp",
+      "fonts": true,
+      "h1": "Transforming Business Through AI, Technology & Leadership.",
+      "services": 6,
+      "mailLinks": [
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com",
+        "mailto:jay@tyrus.com"
+      ],
+      "errors": [],
+      "axe": {
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "targets": [
+              [
+                ".header-inner > .wordmark[href=\"#\"][aria-label=\"Tyrus home\"]"
+              ],
+              [
+                "button"
+              ],
+              [
+                "button > span[aria-hidden=\"true\"]"
+              ],
+              [
+                ".hero-copy > .eyebrow"
+              ],
+              [
+                "#hero-heading"
+              ],
+              [
+                "#hero-heading > span"
+              ],
+              [
+                ".hero-tagline"
+              ],
+              [
+                ".hero-description"
+              ],
+              [
+                ".hero-copy > .button[href$=\"mailto:jay@tyrus.com\"]"
+              ],
+              [
+                ".hero-footnote > p"
+              ],
+              [
+                "p > span"
+              ],
+              [
+                ".hero-footnote > a[href$=\"#about\"]"
+              ],
+              [
+                "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "keyboard": "Skip link; mobile menu open/close; Escape and focus restore passed",
+  "reducedMotion": "passed"
+}

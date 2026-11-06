@@ -23,3 +23,9 @@ document.addEventListener('click', (event) => {
 });
 window.matchMedia('(min-width: 761px)').addEventListener('change', closeMenu);
 document.querySelector('#year').textContent = String(new Date().getFullYear());
+
+// Keep the persistent navigation readable over the light editorial sections.
+const header = document.querySelector('.header');
+const updateHeader = () => header.classList.toggle('is-scrolled', window.scrollY > 32);
+window.addEventListener('scroll', updateHeader, { passive: true });
+updateHeader();
