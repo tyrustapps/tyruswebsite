@@ -1,0 +1,11 @@
+{
+  "name": "tyrus-corporate-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free corporate website for Tyrus LLC",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory dist",
+    "build": "python3 scripts/validate.py && node --check dist/script.js",
+    "test": "python3 scripts/validate.py && node --check dist/script.js"
+  }
+}
