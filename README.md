@@ -22,7 +22,7 @@ Browser review covered 320, 390, 768, and 1440 pixel viewports without horizonta
 
 ## Hosting and deployment
 
-Recommended production host: **Azure Static Web Apps Free**. Expected hosting cost is $0/month within the free tier's limits; domain registration remains separately billed by GoDaddy. No database, backend, paid API, or tracking service is used. Free hosting has no production SLA; assess Standard separately if an SLA is required.
+Configured production host: **Azure Static Web Apps Free**, in Recoup AR - Nonproduction. Live Azure URL: https://wonderful-glacier-0e9abc00f.6.azurestaticapps.net/. Custom-domain activation awaits GoDaddy DNS changes. Expected hosting cost is $0/month within the free tier's limits; domain registration remains separately billed by GoDaddy. No database, backend, paid API, or tracking service is used. Free hosting has no production SLA; assess Standard separately if an SLA is required.
 
 The GitHub validation workflow runs on pushes and pull requests. The Azure deployment workflow runs on `main` pushes or manual dispatch only after repository variable `AZURE_DEPLOY_ENABLED` is set to `true`. It validates before publishing and reads `AZURE_STATIC_WEB_APPS_API_TOKEN` from the `production` environment's secrets. Never commit this token.
 

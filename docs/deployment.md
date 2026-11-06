@@ -2,9 +2,30 @@
 
 ## Current readiness
 
-Implementation and local validation are complete. The production Azure subscription must be selected before resource creation. Existing accessible static apps belong to other projects; none were changed. GoDaddy currently holds the domain. On 2026-11-05, `www.tyrus.com` did not resolve; `tyrus.com` resolved to `3.33.130.190` and returned an HTTPS 200 response for a small parked page. This is not the new website.
+The site is deployed in **Recoup AR - Nonproduction**, resource group `rg-tyrus-website`, Static Web App `tyrus-website`, East US 2, **Free** SKU.
 
-## Provision a dedicated free resource
+Live Azure URL: https://wonderful-glacier-0e9abc00f.6.azurestaticapps.net/
+
+GitHub deployment: https://github.com/tyrustapps/tyruswebsite/actions/runs/42149408410 (success). The production environment secret and `AZURE_DEPLOY_ENABLED=true` repository variable are configured. No credential is stored in source control.
+
+HTTPS returned 200. HTML, CSS, JavaScript, favicon, sitemap, and robots files match committed source exactly. All six configured security headers are present. The deployed website commit is `cc802ad5a851ffce77acb93f72f0af280a937969`.
+
+## Remaining GoDaddy changes
+
+The `www.tyrus.com` Azure custom-domain binding is in `Validating` state. Add the following records in the GoDaddy `tyrus.com` DNS zone (use default TTL or 600 seconds):
+
+| Type | Name | Value |
+| --- | --- | --- |
+| TXT | `_dnsauth.www` | Retrieve the current validationToken from the Azure custom-domain binding; supplied separately in chat |
+| CNAME | `www` | `wonderful-glacier-0e9abc00f.6.azurestaticapps.net` |
+
+Preserve unrelated and email records. Replace any conflicting website-only `www` record rather than creating duplicates.
+
+After www validates and Azure issues its certificate, configure GoDaddy permanent (301), unmasked forwarding from **tyrus.com** to **https://www.tyrus.com/**. Confirm GoDaddy's forwarding includes HTTPS support. This keeps registration/DNS at GoDaddy and requires no Azure DNS paid zone. Azure documents this apex-forwarding option for providers without ALIAS support.
+
+Custom-domain launch is not complete until www serves the site over valid HTTPS and apex forwarding is verified. No GoDaddy DNS changes have been performed by the agent. Other Azure resources were not changed.
+
+## Provisioning reference (already completed; do not repeat)
 
 Use the intended subscription explicitly, without changing the CLI's global default:
 
